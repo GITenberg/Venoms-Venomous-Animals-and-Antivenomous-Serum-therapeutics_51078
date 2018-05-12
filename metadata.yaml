@@ -1,15 +1,21 @@
 _repo: Venoms-Venomous-Animals-and-Antivenomous-Serum-therapeutics_51078
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Austen, Ernest E.
     gutenberg_agent_id: '46232'
     url: http://www.gutenberg.org/2009/agents/46232
+covers:
+- cover_type: archival
+  image_path: 51078-h/images/cover.jpg
 creator:
   author:
     agent_name: Calmette, A.
     gutenberg_agent_id: '46231'
     url: http://www.gutenberg.org/2009/agents/46231
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51078#Venoms-Venomous-Animals-and-Antivenomous-Serum-therapeutics
 gutenberg_issued: '2016-01-30'
 gutenberg_type: Text
 identifiers:
